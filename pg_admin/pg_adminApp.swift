@@ -11,7 +11,7 @@ import SwiftUI
 struct pg_adminApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomeView()
         }
     }
 }
