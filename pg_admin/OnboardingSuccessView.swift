@@ -39,8 +39,3 @@ struct OnboardingSuccessView: View {
     }
 }
 
-#Preview {
-    NavigationStack {
-        OnboardingSuccessView()
-    }
-}

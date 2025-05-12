@@ -54,6 +54,7 @@ struct WelcomeView: View {
                 Spacer().frame(height: 30)
             }
             .padding()
+            .navigationBarBackButtonHidden(true)
         }
     }
 }
